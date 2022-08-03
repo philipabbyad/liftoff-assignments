@@ -7,12 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[github.com/philipabbyad](https://github.com/philipabbyad)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[linkedin.com/in/philipabbyad](https://www.linkedin.com/in/philipabbyad/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+philip-abbyad-resume.pdf added to this repository

@@ -22,6 +22,7 @@ This idea came from the need for relevant volunteer opportunities to be easily v
     <li>Review: Organizations and volunteers can review/endorse either volunteers or organizations/events (respectively)</li>
     <li>Auto-match: Volunteers can be auto-matched to (suggested) events based on specified profile information (skills, location, time available, etc.)</li>
 </ul>
+
 Minimum Viable Product (MVP):
 <ul>
     <li>User Authentication/Authorization (Able to create account & login);</li>
