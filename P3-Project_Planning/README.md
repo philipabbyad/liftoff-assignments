@@ -2,18 +2,25 @@
 For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
+
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
 ## Submission Instructions
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Index Page](./index-page.png)
+* [Sign-In](./sign-in-page.png)
+* [Create Opportunity Form](./create-opportunity-form-page.png)
+* [Search Opportunity Form](./search-opportunity-form-page.png)
+* [Search Form Results](./search-form-results-page.png)
+* [Navigation Bar Header](./navigation-bar-header-element.png)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Project Trello Board](https://trello.com/b/hFPAhBlX/volunteer-organizer-project-board)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Volunteer Organizer Project Repository](https://github.com/Jul-2022-LC-LiftOff/VolunteerOrganizer)
+
